@@ -1,1 +1,1 @@
-# Curso_Infraestructura
+# Infraestructura_y_arquitectura_TI
